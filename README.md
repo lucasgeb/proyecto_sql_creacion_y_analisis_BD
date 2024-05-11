@@ -2,8 +2,13 @@ El proyecto consistió en la creación de una base de datos para la empresa Henr
 
 Se muestran separados los 5 scripts. 
 Estos deberían ejecutarse en el siguiente orden: 
+
 1.- DA_Gebhardt_Lucas_avance1PI 
+
 2.- DA_Gebhardt_Lucas_avance2PI 
+
 3.- DA_Gebhardt_Lucas_avance3PI 
+
 4.- DA_Gebhardt_Lucas_avance4PI 
+
 5.- DA_Gebhardt_Lucas_Consultas_Avanzadas
